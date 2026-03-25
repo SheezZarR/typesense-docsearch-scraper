@@ -1,7 +1,7 @@
 [[source]]
-url = "https://pypi.org/simple"
+url = "https://mirror.yandex.ru/pypi/web/simple/"
 verify_ssl = true
-name = "pypi"
+name = "pypi (yandex)"
 
 [packages]
 Scrapy = "==2.12.0"

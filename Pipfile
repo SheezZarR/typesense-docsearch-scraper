@@ -1,17 +1,7 @@
 [[source]]
-url = "https://mirrors.huaweicloud.com/repository/pypi/simple"
+url = "https://pypi.ntprog.com/ntpro/devpi/+simple/"
 verify_ssl = true
-name = "huawei"
-
-[[source]]
-url = "https://pypi.tuna.tsinghua.edu.cn/simple "
-verify_ssl = true
-name = "tsinghua"
-
-[[source]]
-url = "https://mirror.yandex.ru/pypi/"
-verify_ssl = true
-name = "yandex"
+name = "ntpro"
 
 [packages]
 Scrapy = "==2.12.0"

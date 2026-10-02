@@ -20,6 +20,7 @@ algoliasearch = "==2.6.3"
 python-keycloak-client = "==0.2.3"
 webdriver-manager = "==4.0.2"
 typesense = "*"
+w3lib = "==2.0.0"
 
 [dev-packages]
 pylint = "==3.2.6"
